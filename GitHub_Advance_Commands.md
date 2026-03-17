@@ -13,4 +13,3 @@
 13. git fetch : Downloads changes from GitHub but does not merge. (fetch latest Code)
 14. git pull --rebase origin main : Pull with Rebase 
 15. git remote -v : Show Remote Repository
-14444
