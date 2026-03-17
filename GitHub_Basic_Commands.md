@@ -8,3 +8,5 @@
 8. git push origin main : Push Code to GitHub
 9. git clone repository_link : Clone Repository
 10. git pull origin main : Pull Latest Code
+11. git push : add your command into repo
+12
