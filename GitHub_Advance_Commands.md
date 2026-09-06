@@ -14,4 +14,4 @@
 14. git pull --rebase origin main : Pull with Rebase 
 15. git remote -v : Show Remote Repository
 
-dfmclxzldkfgjbmkvlfdsrev
+dfmclxzldkfgjbmkvlfds
